@@ -3,12 +3,45 @@ layout: default
 ---
 
 <!-- about.html -->
+<!-- <style>
+  .post-title {
+    background: linear-gradient(45deg, #20bf55, #00AA76, #009287,#007986);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .desc {
+    background: linear-gradient(45deg, #F3740C, #54433A);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+</style> -->
+<style>
+  .post-title span.font-weight-bold {
+    background: linear-gradient(45deg, #20bf55, #00AA76, #009287,#007986);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .post-title{
+    background: none; /* Remove background for the entire text */
+    -webkit-background-clip: initial;
+    -webkit-text-fill-color: initial;
+  }
+
+  /* .desc {
+    background: linear-gradient(45deg, #F3740C, #54433A);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  } */
+</style>
+
       <div class="post">
         <header class="post-header">
           <h1 class="post-title">
             {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
           </h1>
-          <p class="desc">{{ page.subtitle }}</p>
+          <p class="desc"><span class="font-weight">:envelope:&nbsp;</span> {{ page.subtitle }}</p>
         </header>
 
         <article>
@@ -38,24 +71,32 @@ layout: default
           {%- endif %}
 
           <div class="clearfix">
-            {{ content }}
+            <span style="font-family:Times; font-size: 18px;">
+            {{ content }}</span>
           </div>
 
           <!-- News -->
-          {% if page.news and site.announcements.enabled -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
-            {%- include news.html limit=true %}
+          <br />
+          {% if page.news-%}
+          <h2><a href="{{ '/progress/' | relative_url }}" style="color: inherit;"><span class="font-weight-bold">Progress</span></a></h2>
+          <!-- <span style="font-family:Times">
+            (scroll down to check)</span> -->
+          <span style="font-family:Times">
+            </span>
+            {%- include news.html%}
           {%- endif %}
+          <br />
+          <br />
 
           <!-- Latest posts -->
-          {% if page.latest_posts -%}
+          <!-- {% if page.latest_posts -%}
             <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
             {%- include latest_posts.html %}
-          {%- endif %}
+          {%- endif %} -->
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;"><span class="font-weight-bold">Selected Publications</span></a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
 
@@ -66,9 +107,9 @@ layout: default
                 {% include social.html %}
               </div>
 
-              <div class="contact-note">
+              <!-- <div class="contact-note">
                 {{ site.contact_note }}
-              </div>
+              </div> -->
 
             </div>
           {%- endif %}
