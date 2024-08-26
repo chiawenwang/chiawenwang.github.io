@@ -4,7 +4,7 @@ title: EHC-MM
 description: Embodied Holistic Control for Robotic Mobile Manipulation
 img: assets/img/EHC-MM/teaser.png
 importance: 1
-category: robotics
+category: Robotics
 related_publications: 
 ---
 
@@ -14,12 +14,10 @@ Mobile Manipulation (MM), with their blend of mobility and dexterity, are increa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/EHC-MM/teaser.png" title="EHC-MM" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/EHC-MM/teaser.png" title="EHC-MM" class="img-fluid rounded z-depth-1" width="80%" caption="Mobile manipulation often adheres to the DMCG principle, prioritizing base movement when at a distance and focusing on arm grasping when close. This enables the robot to achieve higher precision and efficiency."%}
     </div>
 </div>
-<div class="caption">
-    Mobile manipulation often adheres to the DMCG principle, prioritizing base movement when at a distance and focusing on arm grasping when close. This enables the robot to achieve higher precision and efficiency.
-</div>
+
 
 **Video**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DrJD_Djxj-E?si=Z5f4Shq9_NxREy-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

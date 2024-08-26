@@ -4,8 +4,8 @@ title: optimize arm reaching
 description: Optimizing Robot Arm Reaching Ability with Different Joints Functionality
 img:
 importance: 2
-category: robotics
-related_publications: 
+category: Robotics
+related_publications: wang2023optimizing
 ---
 
 
@@ -14,9 +14,9 @@ During the process of reaching a target, a robotic arm may generate a large numb
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/optimize_arm_reaching/teaser.png" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/optimize_arm_reaching/teaser.png" title="" class="img-fluid rounded z-depth-1" width="80%" caption="Human arm operation mechanism. People tend to use their shoulder-near joints more when reaching distant targets"%}
     </div>
 </div>
-<div class="caption">
-    Human arm operation mechanism. People tend to use their shoulder-near joints more when reaching distant targets
-</div>
+
+**Video**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CR-yqj9y6qI?si=v9xR6FdBS0Ey5iKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
