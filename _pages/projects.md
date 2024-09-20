@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my projects.
 nav: true
 nav_order: 2
-display_categories: [Robotics]
+display_categories: [Robotics, Exploration]
 horizontal: false
 ---
 
