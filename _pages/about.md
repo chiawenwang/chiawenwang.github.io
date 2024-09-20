@@ -7,6 +7,7 @@ subtitle:   chiawenw@stu.pku.edu.cn
 profile:
   align: right
   # image: profile.webp
+  # image: github.png
   image: github1.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
