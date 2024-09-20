@@ -7,11 +7,11 @@ subtitle:   chiawenw@stu.pku.edu.cn
 profile:
   align: right
   # image: profile.webp
-  image: github.png
+  image: github1.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
+    <p><em>Keep curiosity alive.</em></p>
     <p>Peking University</p>
-    <p>No.5 Yiheyuan Road Haidian District</p>
     <p>Beijing, China</p>
 
 news: true  # includes a list of news items
@@ -32,5 +32,5 @@ I earned my Bachelor's degree from North China Electric Power University, Majori
 
 Outside of academia, I enjoy playing football (soccer), swimming, and hitting the gym. Additionally, I have a passion for music and can often be found with airpods in hand – I simply can't stay away! The guitar and flute are my constant companions. :sparkles:
 
-You can also find me via: \\
-:deciduous_tree:&nbsp;[ResearchGate](https://www.researchgate.net/profile/Jiawen-Wang-45)
+<!-- You can also find me via: \\
+:deciduous_tree:&nbsp;[ResearchGate](https://www.researchgate.net/profile/Jiawen-Wang-45) -->
