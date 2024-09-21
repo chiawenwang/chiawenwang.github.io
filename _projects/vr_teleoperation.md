@@ -24,25 +24,40 @@ related_publications:
 
 **Data Collection**
 
-<div class="col-sm mt-3 mt-md-0">
-    {% include video.liquid path="assets/video/data1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true muted=true loop=true%}
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+      {% include video.liquid path="assets/video/data1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true muted=true loop=true%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+      {% include video.liquid path="assets/video/data2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true muted=true loop=true%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+      {% include video.liquid path="assets/video/data3.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true muted=true loop=true%}
+  </div>
 </div>
-<div class="col-sm mt-3 mt-md-0">
-    {% include video.liquid path="assets/video/data2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true muted=true loop=true%}
-</div>
-<div class="col-sm mt-3 mt-md-0">
-    {% include video.liquid path="assets/video/data3.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true muted=true loop=true%}
-</div>
-
 <div class="caption">
     Data collection for robot learning
 </div>
 
 **Training with ACT**
 
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+      {% include video.liquid path="assets/video/output.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true muted=true loop=true%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+      {% include video.liquid path="assets/video/output_9.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true muted=true loop=true%}
+  </div>
+</div>
+<div class="caption">
+    Training results with ACT
+</div>
 
 **Experiment Setup**
-Dual-arm robot: *Realman*
-Dexterous hand: *Inspire*
-VR device: *Quest 3 by Meta*
+
+Dual-arm robot: ***Realman***
+
+Dexterous hand: ***Inspire***
+
+VR device: ***Quest 3 by Meta***
 
