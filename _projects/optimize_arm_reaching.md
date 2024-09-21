@@ -2,7 +2,7 @@
 layout: page
 title: Optimize arm reaching
 description: Optimizing Robot Arm Reaching Ability with Different Joints Functionality
-img:
+img: assets/img/optimize_arm_reaching/show.jpg
 importance: 4
 category: Robotics
 related_publications: 

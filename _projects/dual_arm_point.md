@@ -2,7 +2,7 @@
 layout: page
 title: Operation Point Selection
 description: A Novel Learning-based Approach for Dual-Arm Robot Operation Point Selection
-img:
+img: assets/img/operation_point_selection/show.jpg
 importance: 3
 category: Robotics
 related_publications: 
