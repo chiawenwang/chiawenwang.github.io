@@ -5,7 +5,7 @@ description: Embodied Holistic Control for Mobile Manipulation
 img: assets/img/EHC-MM/teaser4.png
 importance: 1
 category: Robotics
-related_publications: wang2024ehcmmembodiedholisticcontrol
+related_publications: 
 ---
 
 <div class="row">

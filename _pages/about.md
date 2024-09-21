@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle:   chiawenw@stu.pku.edu.cn
+subtitle: chiawenw@stu.pku.edu.cn
 
 profile:
   align: right
   # image: profile.webp
   # image: github.png
-  image: github1.jpg
+  image: github.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p><em>Keep curiosity alive.</em></p>

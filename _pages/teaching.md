@@ -15,5 +15,5 @@ I worked as a Teaching Assistant at Peking University for Robotics Kinematics an
 
 3. Providing project supervision, feedback, marking and assessment to students.
 
-**Assignment vedio**
+**Assignment video**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-KZYXuYTP_M?si=UFP89Dc_OGoKrsF0&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
