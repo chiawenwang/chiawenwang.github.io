@@ -24,10 +24,25 @@ related_publications:
 
 **Data Collection**
 
+<div class="col-sm mt-3 mt-md-0">
+    {% include video.liquid path="assets/video/data1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true muted=true loop=true%}
+</div>
+<div class="col-sm mt-3 mt-md-0">
+    {% include video.liquid path="assets/video/data2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true muted=true loop=true%}
+</div>
+<div class="col-sm mt-3 mt-md-0">
+    {% include video.liquid path="assets/video/data3.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true muted=true loop=true%}
+</div>
+
+<div class="caption">
+    Data collection for robot learning
+</div>
 
 **Training with ACT**
 
 
 **Experiment Setup**
-
+Dual-arm robot: *Realman*
+Dexterous hand: *Inspire*
+VR device: *Quest 3 by Meta*
 
