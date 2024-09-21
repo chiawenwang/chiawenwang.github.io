@@ -15,7 +15,7 @@ related_publications:
         {% include video.liquid path="assets/video/vr.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true muted=true loop=true%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/global.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true muted=true loop=true%}
+        {% include video.liquid path="assets/video/global1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true muted=true loop=true%}
     </div>
 </div>
 <div class="caption">
