@@ -61,3 +61,4 @@ Dexterous hand: ***Inspire***
 
 VR device: ***Quest 3 by Meta***
 
+GPU: ***NVIDIA RTX 3090***
