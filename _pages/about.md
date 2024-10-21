@@ -27,9 +27,11 @@ social: true  # includes social icons at the bottom of the page
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
-<span style="font-family: 'Arial', sans-serif;">Reasearch Target: AI4Robotics</span>
+<span style="font-family: 'Arial', sans-serif;">Reasearch Target:</span> AI4Robotics
 
-<span style="font-family: 'Arial', sans-serif;">Recent works: Language embedded 3DGS for task-oriented affordance perception; Dual-arm robot teleoperation with VR; Robot learning from human demonstration.</span>
+<span style="font-family: 'Arial', sans-serif;">Recent works:</span>[Language embedded 3DGS for task-oriented affordance perception](/projects/Gautoao/); [Dual-arm robot teleoperation with VR; Robot learning from human demonstration](/projects/vr_teleoperation/).
+
+<!-- <span style="font-family: 'Arial', sans-serif;">Recent works: <a href="projects/EHC-MM/">Language embedded 3DGS for task-oriented affordance perception</a>; <a href="projects/EHC-MM/">Dual-arm robot teleoperation with VR</a>; <a href="projects/EHC-MM/">Robot learning from human demonstration</a>.</span> -->
 
 I am currently a graduate student at the School of Intelligent Science and Technology at Peking University, under the supervision of Prof. [Dingsheng Luo](https://ieeexplore.ieee.org/author/37340369700). I anticipate completing my Master's degree in July 2025. <span style="background-color: yellow; color: red;">My research focuses on intelligent robots, with a particular emphasis on motion control and perception, especially when integrated with human recognition mechanisms.</span> I actively conduct experiments in both simulation and real world, working with various robot platforms such as UR3-AUBOi5 dual-arm robot, Baxter, Realman mobile manipulation robot, PKU-HR humanoid robot, VR teleoperation and others. 
 
