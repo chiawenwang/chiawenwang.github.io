@@ -34,13 +34,12 @@ WORKDIR /srv/jekyll
 
 RUN bundle install --no-cache
 # && rm -rf /var/lib/gems/3.1.0/cache
-
-RUN chmod +x /srv/jekyll/_site/assets/img/robot_writing.jpg
+RUN rm -rf /srv/jekyll/_site
 
 EXPOSE 8080
 
 # COPY --chmod=755 bin/entry_point.sh /tmp/entry_point.sh
 
-# RUN chmod +x /tmp/entry_point.sh
+RUN chmod +x /tmp/entry_point.sh
 
 CMD ["/tmp/entry_point.sh"]
