@@ -37,7 +37,7 @@ I am currently a graduate student at the School of Intelligent Science and Techn
 
 I earned my Bachelor's degree from North China Electric Power University, Majoring in Automation and Artificial Intelligence. During this period, my focus was on the control of quadcopters and mobile manipulation with classical methods, like PID, Fussy control, et al.
 
-Outside of academia, I enjoy playing football (soccer), swimming, and hitting the gym. Additionally, I have a passion for music and can often be found with airpods in hand – I simply can't stay away! The guitar and flute are my constant companions. :sparkles:
+<!-- Outside of academia, I enjoy playing football (soccer), swimming, and hitting the gym. Additionally, I have a passion for music and can often be found with airpods in hand – I simply can't stay away! The guitar and flute are my constant companions. :sparkles: -->
 
 <!-- You can also find me via: \\
 :deciduous_tree:&nbsp;[ResearchGate](https://www.researchgate.net/profile/Jiawen-Wang-45) -->
