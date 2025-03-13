@@ -2,7 +2,7 @@
 layout: page
 title: VR teleoperation
 description: teleoperation in VR and robot learning
-img: assets/img/vr/vr.jpg
+img: assets/img/vr.jpg
 importance: 2
 category: Robotics
 related_publications: 

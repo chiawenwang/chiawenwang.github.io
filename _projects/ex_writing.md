@@ -2,7 +2,7 @@
 layout: page
 title: Robot Writing
 description: Writing 'Fu' with the dual-arm robots
-img: assets/img/writing/robot_writing.jpg
+img: assets/img/robot_writing.jpg
 importance: 1
 category: Exploration
 related_publications: 
