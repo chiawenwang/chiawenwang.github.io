@@ -36,3 +36,18 @@ Mobile manipulation typically entails the base for mobility, the arm for accurat
 **Video**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ityJTxbnnao?si=esj4KzdRBVv07Amx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<h2>Reference</h2>
+<p>If you find our work useful, please cite:</p>
+<pre><code>
+@misc{wang2025ehcmmembodiedholisticcontrol,
+      title={EHC-MM: Embodied Holistic Control for Mobile Manipulation}, 
+      author={Jiawen Wang and Yixiang Jin and Jun Shi and Yong A and Dingzhe Li and Fuchun Sun and Dingsheng Luo and Bin Fang},
+      year={2025},
+      eprint={2409.08527},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2409.08527}
+}
+</code></pre>
