@@ -34,7 +34,9 @@ Areas: Embodied AI, Motion Control and Perception, Human-Robot Interaction
 
 <!-- <span style="font-family: 'Arial', sans-serif;">Recent works: <a href="projects/EHC-MM/">Language embedded 3DGS for task-oriented affordance perception</a>; <a href="projects/EHC-MM/">Dual-arm robot teleoperation with VR</a>; <a href="projects/EHC-MM/">Robot learning from human demonstration</a>.</span> -->
 
-I am currently a graduate student at the School of Intelligence Science and Technology at Peking University, under the supervision of Prof. [Dingsheng Luo](https://ieeexplore.ieee.org/author/37340369700). I anticipate completing my Master's degree in July 2025. My research focuses on intelligent robots, with a particular emphasis on motion control and perception, especially when integrated with human recognition mechanisms. I actively conduct experiments in both simulation and real world, working with various robot platforms such as UR3-AUBOi5 dual-arm robot, Baxter, Realman mobile manipulation robot, PKU-HR humanoid robot, VR teleoperation and others. 
+I am currently a graduate student at the School of Intelligence Science and Technology at Peking University, under the supervision of Prof. [Dingsheng Luo](https://ieeexplore.ieee.org/author/37340369700). I anticipate completing my Master's degree in July 2025.
+
+My research focuses on intelligent robots, with a particular emphasis on motion control and perception, especially when integrated with human recognition mechanisms. I actively conduct experiments in both simulation and real world, working with various robot platforms such as UR3-AUBOi5 dual-arm robot, Baxter, Realman mobile manipulation robot, PKU-HR humanoid robot, VR teleoperation and others.
 
 I earned my Bachelor's degree from North China Electric Power University, Majoring in Automation and Artificial Intelligence. During this period, my focus was on the control of quadcopters and mobile manipulation with classical methods, like PID, Fussy control, et al.
 
