@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 # description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 <!-- {: style="font-family: 'Times', serif;"} -->
 I worked as a Teaching Assistant at Peking University for Robotics Kinematics and Control (23241-00106-10600020). Responsibilities include :
