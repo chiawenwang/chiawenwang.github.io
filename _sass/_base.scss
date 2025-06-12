@@ -19,6 +19,11 @@ strong {
   color: var(--global-text-color);
 }
 
+body {
+  font-size: 18px;  // ← 你可以改成 16px / 17px / 19px，根据需要
+  line-height: 1.7; // 推荐加上行距提升可读性
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
