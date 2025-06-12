@@ -12,7 +12,6 @@ related_publications:
     <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/EHC-MM/teaser4.png" title="EHC-MM" class="img-fluid rounded z-depth-1" height="80%" caption="Real-world scenarios"%}
     </div>
-
     <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/EHC-MM/teaser5.png" title="EHC-MM" class="img-fluid rounded z-depth-1" height="80%" caption="Simulation"%}
     </div>
