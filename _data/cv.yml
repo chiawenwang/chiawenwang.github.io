@@ -6,7 +6,7 @@
     - name: E-mail
       value: '<a href="mailto:chiawenw@ucla.edu">chiawenw@ucla.edu</a>'
     - name: Languages
-      value: Chinse (Mandarin), English
+      value: Chinese (Mandarin), English
 
 - title: Education
   type: time_table
