@@ -10,7 +10,7 @@ related_publications:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/gautoao/teaser.jpg" title="gautoao" class="img-fluid rounded z-depth-1" width="45%" caption=" When the robot is presented with a bouquet of sunflowers, its attention shifts based on the intended task. If the task is to display the flowers, the robot should focus on orienting the blossoms toward the observer. Conversely, if the task is to insert the flowers into a vase, the robot's focus shifts to aligning the flower stem with the vase's opening."%}
+        {% include figure.liquid path="assets/img/gautoao/teaser.jpg" title="gautoao" class="img-fluid rounded z-depth-1" width="45%" caption=" When the robot is presented with a bouquet of sunflowers, its attention shifts based on the intended task. If the task is to display the flowers, the robot should focus on orienting the blossoms toward the observer. Conversely, if the task is to insert the flowers into a vase, the robot's focus shifts to aligning the flower stem with the vase's opening."%}
     </div>
 </div>
 

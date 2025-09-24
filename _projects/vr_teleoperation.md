@@ -12,10 +12,10 @@ related_publications:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/vr/vr1.gif" title="VR" class="img-fluid rounded z-depth-1" width="90%" caption="VR perspective"%}
+        {% include figure.liquid path="assets/img/vr/vr1.gif" title="VR" class="img-fluid rounded z-depth-1" width="90%" caption="VR perspective"%}
     </div>
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/vr/global1.gif" title="Global" class="img-fluid rounded z-depth-1" width="60%" caption="Global perspective"%}
+        {% include figure.liquid path="assets/img/vr/global1.gif" title="Global" class="img-fluid rounded z-depth-1" width="60%" caption="Global perspective"%}
     </div>
 </div>
 <div class="caption">
@@ -27,17 +27,17 @@ related_publications:
 <div class="container">
   <div class="row mt-md-0 justify-content-center">
     <div class="col-md-6 text-center">
-      {% include figure.html path="assets/img/vr/data1.gif" class="img-fluid rounded z-depth-1" width="100%" %}
+      {% include figure.liquid path="assets/img/vr/data1.gif" class="img-fluid rounded z-depth-1" width="100%" %}
     </div>
   </div>
   <div class="row mt-md-0 justify-content-center">
     <div class="col-md-6 text-center">
-      {% include figure.html path="assets/img/vr/data2.gif" class="img-fluid rounded z-depth-1" width="100%" %}
+      {% include figure.liquid path="assets/img/vr/data2.gif" class="img-fluid rounded z-depth-1" width="100%" %}
     </div>
   </div>
   <div class="row mt-md-0 justify-content-center">
     <div class="col-md-6 text-center">
-      {% include figure.html path="assets/img/vr/data3.gif" class="img-fluid rounded z-depth-1" width="100%" %}
+      {% include figure.liquid path="assets/img/vr/data3.gif" class="img-fluid rounded z-depth-1" width="100%" %}
     </div>
   </div>
 </div>
@@ -51,12 +51,12 @@ related_publications:
 <div class="container">
   <div class="row mt-md-0 justify-content-center">
     <div class="col-md-6 text-center">
-      {% include figure.html path="assets/img/vr/output.gif" title="Success" class="img-fluid rounded z-depth-1" width="100%" caption="Success" %}
+      {% include figure.liquid path="assets/img/vr/output.gif" title="Success" class="img-fluid rounded z-depth-1" width="100%" caption="Success" %}
     </div>
   </div>
   <div class="row mt-md-0 justify-content-center">
     <div class="col-md-6 text-center">
-      {% include figure.html path="assets/img/vr/output_9.gif" title="Failure" class="img-fluid rounded z-depth-1" width="100%" caption="Failure" %}
+      {% include figure.liquid path="assets/img/vr/output_9.gif" title="Failure" class="img-fluid rounded z-depth-1" width="100%" caption="Failure" %}
     </div>
   </div>
 </div>

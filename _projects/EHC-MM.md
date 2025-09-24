@@ -10,10 +10,10 @@ related_publications:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/EHC-MM/teaser4.png" title="EHC-MM" class="img-fluid rounded z-depth-1" height="80%" caption="Real-world scenarios"%}
+        {% include figure.liquid path="assets/img/EHC-MM/teaser4.png" title="EHC-MM" class="img-fluid rounded z-depth-1" height="80%" caption="Real-world scenarios"%}
     </div>
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/EHC-MM/teaser5.png" title="EHC-MM" class="img-fluid rounded z-depth-1" height="80%" caption="Simulation"%}
+        {% include figure.liquid path="assets/img/EHC-MM/teaser5.png" title="EHC-MM" class="img-fluid rounded z-depth-1" height="80%" caption="Simulation"%}
     </div>
 </div>
 
@@ -27,7 +27,7 @@ Mobile manipulation typically entails the base for mobility, the arm for accurat
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/EHC-MM/framework1.png" title="EHC-MM" class="img-fluid rounded z-depth-1" width="80%" caption="Framework of EHC-MM."%}
+        {% include figure.liquid path="assets/img/EHC-MM/framework1.png" title="EHC-MM" class="img-fluid rounded z-depth-1" width="80%" caption="Framework of EHC-MM."%}
     </div>
 </div>
 

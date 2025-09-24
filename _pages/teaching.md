@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /teaching/
+# permalink: /teaching/
 title: Teaching
 # description: Materials for courses you taught. Replace this text with your description.
-nav: true
+nav: false
 nav_order: 4
 ---
 <!-- {: style="font-family: 'Times', serif;"} -->
