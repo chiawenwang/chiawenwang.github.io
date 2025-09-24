@@ -13,21 +13,21 @@
   contents:
     - title: PhD Student
       institution: University of California, Los Angeles (UCLA), USA
-      year: 2025 - now
+      year: 2025.09 - now
       description:
         - Department of Mechanical and Aerospace Engineering
       logo: /assets/img/logo/ucla.png # <-- Add this line
 
     - title: Master's Degree
       institution: Peking University, China
-      year: 2022 - 2025
+      year: 2022.09 - 2025.07
       description:
         - School of Intelligence Science and Technology
       logo: /assets/img/logo/pku.png # <-- Add this line
 
     - title: Bachelor's Degree
       institution: North China Electric Power University, China
-      year: 2018 - 2022
+      year: 2018.09 - 2022.07
       description:
         - School of Control and Computer Engineering
       logo: /assets/img/logo/ncepu.png # <-- Add this line
