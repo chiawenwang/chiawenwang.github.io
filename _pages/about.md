@@ -7,7 +7,7 @@ subtitle: chiawenw@ucla.edu
 
 profile:
   align: right
-  image: profpic.jpg
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p><em>“Keep curiosity alive.”</em></p>
